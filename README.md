@@ -1,3 +1,4 @@
+![logo](https://github.com/SarthakNigam8000/SarthakNigam8000/blob/main/Dark%20Neon%20Simple%20Futuristic%20UIUX%20Designer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sarthak Nigam</h1>
 <h3 align="center">Technology Analyst @ 𝐈𝐧𝐟𝐨𝐬𝐲𝐬 | DevOps Engineer | Terraform | Kubernetes | Docker | AWS |</h3>
 
