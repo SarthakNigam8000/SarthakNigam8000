@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak Nigam</h1>
 <h3 align="center">Technology Analyst @ 𝐈𝐧𝐟𝐨𝐬𝐲𝐬 | DevOps Engineer | Terraform | Kubernetes | Docker | AWS |</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/120ff841-ee7a-438a-9032-4c2b81456003)
-">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthaknigam8000&label=Profile%20views&color=0e75b6&style=flat" alt="sarthaknigam8000" /> </p>
 
